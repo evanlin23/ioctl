@@ -1,0 +1,4 @@
+LibreOffice WASM runtime distributed by @matbee/libreoffice-converter 2.7.2.
+License: Mozilla Public License 2.0 (https://www.mozilla.org/MPL/2.0/).
+Corresponding source and build instructions: https://github.com/matbeedotcom/libreoffice-document-converter/tree/v2.7.2
+LibreOffice and third-party notices are included in the runtime filesystem.
